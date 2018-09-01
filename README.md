@@ -1,3 +1,2 @@
 # golangtraining
-## test:w
-
+## test
